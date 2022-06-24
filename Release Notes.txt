@@ -1,0 +1,41 @@
+****Printer Installer 3.4**** 3/11/2017
+Added menu bar option with options for installed printers
+
+
+****Printer Installer 3.3**** 3/7/2017
+Name changed to "Network Printer Installer"
+Menu bar added with several options
+Install Button disables during installation process
+Stream lined code for install printer function
+
+****Printer Installer 3.2**** 3/5/2017
+Command window hidden during installation
+Progress bar add during installation
+Added Samsung Brand
+
+****Printer Installer 3.1.2**** 3/3/2017
+Fixed HP 32bit installer
+Fixed Sharp 32bit installer
+Added Casals Printers
+
+****Printer Installer 3.1.1****
+Added Kyocera Brand
+changed titles within GUI
+
+****Printer Installer 3.1****
+stream lined code for easier future additions of schools and printers
+
+****Printer Installer 3.0.1****
+*Fixed error message titles
+*Checks to make sure script is running with admin privledges
+*Added printer to Herzl list 
+
+****Printer Installer 3.0**** 11/21/2016
+Addition of custom printer install
+
+****Printer Installer 2.0****
+Drop down selections of installing specific network printers
+
+****Printer Installer 1.0****
+Key stroke simulator through add printer wizard
+
